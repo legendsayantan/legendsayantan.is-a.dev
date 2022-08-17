@@ -46,4 +46,4 @@ Java Archive (Jar) for Windows : [Download Here](https://github.com/legendsayant
 
 
 
-### Go to Website [Home](legendsayantan.github.io)
+### Go to Website [Home](https://legendsayantan.github.io)
