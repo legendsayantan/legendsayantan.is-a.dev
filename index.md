@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# legendsayantan.github.io
 
-You can use the [editor on GitHub](https://github.com/legendsayantan/legendsayantan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Find wiki for [all my projects](https://github.com/legendsayantan) at this website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+### ThemePatcher
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tired of buying themes in Oppo or Realme device? Use This Patcher to unlock all the paid themes , for free !
+This windows script lets you unlock all the paid themes, fonts and wallpapers for free from the Theme store in any Oppo or Realme device.
 
-```markdown
-Syntax highlighted code block
+[Try it](https://github.com/legendsayantan/ThemePatcher/releases)
 
-# Header 1
-## Header 2
-### Header 3
+[How to use](https://github.com/legendsayantan/ThemePatcher/README.md)
 
-- Bulleted
-- List
+### Xcrypt
 
-1. Numbered
-2. List
+Easily Encrypt or Decrypt all types of file locally using 128 bit AES Encryption, on Android or Windows.
 
-**Bold** and _Italic_ and `Code` text
+Ideal for preventing other installed softwares from accessing your personal files, or to prevent unauthorised access from other people. Can be encrypted then decrypted from any platform as long as the same key is being used. 
 
-[Link](url) and ![Image](src)
-```
+[Try on Android](https://github.com/legendsayantan/Xcrypt)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Try on Windows](https://github.com/legendsayantan/Xcrypt-windows)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/legendsayantan/legendsayantan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Wiki](https://legendsayantan.github.io/xcrypt)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Have questions about any of these Softwares or Projects? Contact me on [Facebook](https://fb.com/LegendSayantan) or [Reddit](https://reddit.com/u/LegendSayantan)
+
+###### Page last modified 17-08-2022
