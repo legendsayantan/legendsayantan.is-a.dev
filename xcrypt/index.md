@@ -26,8 +26,8 @@ Also, Xcrypt can remember the 16-digit encryption code for you, it will just ver
 
 ![image](https://user-images.githubusercontent.com/69689739/185054380-537ede7b-50d8-4626-bf01-4a250890d8f7.png)
 ![image](https://user-images.githubusercontent.com/69689739/185054480-f8901dae-9350-4020-9149-76c03aeb60fd.png)
-![image](https://user-images.githubusercontent.com/69689739/185054619-67743e55-821c-479b-b868-519b0b65e387.png)
 ![image](https://user-images.githubusercontent.com/69689739/185054898-c59078d3-7ae1-4ba4-931c-f04a7f08649b.png)
+![image](https://user-images.githubusercontent.com/69689739/185054619-67743e55-821c-479b-b868-519b0b65e387.png)
 
 
 
@@ -42,3 +42,8 @@ Java Archive (Jar) for Windows : [Download Here](https://github.com/legendsayant
 [Android](https://github.com/legendsayantan/Xcrypt)
 
 [Windows](https://github.com/legendsayantan/Xcrypt-windows)
+
+
+
+
+### Go to Website [Home](legendsayantan.github.io)
