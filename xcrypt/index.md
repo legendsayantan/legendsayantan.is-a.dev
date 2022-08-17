@@ -14,6 +14,12 @@ Encrypt/Decrypt single files or in bulk amounts, both options are too easy to wo
 Xcrypt remembers the files you worked on last time, so you dont have to find them manually next time.. 
 Also, Xcrypt can remember the 16-digit encryption code for you, it will just verify your device credentials everytime you use the autosaved code.
 
+## Installation
+
+Android Package Archive (Apk) for Android : [Download here](https://github.com/legendsayantan/Xcrypt/releases)
+
+Java Archive (Jar) for Windows : [Download Here](https://github.com/legendsayantan/Xcrypt-windows/releases) [Needs [Java](https://www.java.com/en/download/help/download_options.html#windows) to be Installed]
+
 ## Screenshots
 
 ### Android
@@ -30,12 +36,6 @@ Also, Xcrypt can remember the 16-digit encryption code for you, it will just ver
 ![image](https://user-images.githubusercontent.com/69689739/185054619-67743e55-821c-479b-b868-519b0b65e387.png)
 
 
-
-## Installation
-
-Android Package Archive (Apk) for Android : [Download here](https://github.com/legendsayantan/Xcrypt/releases)
-
-Java Archive (Jar) for Windows : [Download Here](https://github.com/legendsayantan/Xcrypt-windows/releases) [Needs [Java](https://www.java.com/en/download/help/download_options.html#windows) to be Installed]
 
 ## Source code
 
