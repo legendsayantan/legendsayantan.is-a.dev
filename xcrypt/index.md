@@ -1,6 +1,7 @@
 # Xcrypt
 
-Seamless way to Encrypt or Decrypt local files, on Anroid or Windows.
+## Reclaim your Privacy.
+Xcrypt is a Seamless way to Encrypt or Decrypt local files, on Anroid or Windows.
 
 ### Usage Scenarios
 
