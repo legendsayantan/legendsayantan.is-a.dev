@@ -45,10 +45,12 @@ It also includes a AutoScrolling feature so your hands can rest from constant sc
 
 [Download for Android](https://github.com/legendsayantan/AutoReact/releases/latest)
 
+[Javascript source for Pc Browsers](https://github.com/legendsayantan/AutoReact/blob/master/app/src/main/assets/)
+
 [Wiki](https://legendsayantan.github.io/autoreact)
 
 ## Support or Contact
 
 Have questions about any of these Softwares or Projects? Contact me on [Facebook](https://fb.com/LegendSayantan) or [Reddit](https://reddit.com/u/LegendSayantan)
 
-###### Page last modified 17-08-2022
+###### Page last modified 18-08-2022
