@@ -2,6 +2,14 @@
 
 Find wiki for [all my projects](https://github.com/legendsayantan) at this website.
 
+## Table of Contents
+
+- Projects
+  - ThemePatcher
+  - Xcrypt
+  - AutoReact
+- Support or Contact
+
 ## Projects
 
 ### ThemePatcher
