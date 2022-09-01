@@ -7,7 +7,7 @@ Xcrypt is a Seamless way to Encrypt or Decrypt local files, on Anroid or Windows
 
 Xcrypt can protect your locally stored confidential files from unauthorised access of other installed softwares.
 Xcrypt protects your personal files from other people who can potentially transfer/copy/read you personal files.
-Xcrypt also allows you to encrypt files before sending someone, so the files remain confidential to any middle-man or third parties.
+Xcrypt also allows you to encrypt files before sending someone, so the files remain confidential between the sender and reciever, out of reach to any middle-man or third parties.
 
 ### Features
 
