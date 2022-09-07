@@ -1,7 +1,7 @@
 # Xcrypt
 
 ## Reclaim your Privacy.
-Xcrypt is a Seamless way to Encrypt or Decrypt local files, on Anroid or Windows.
+Xcrypt is a Seamless way to Encrypt or Decrypt local files, on Android or Windows.
 
 ## Why Xcrypt?
 
