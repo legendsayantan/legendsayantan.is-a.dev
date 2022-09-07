@@ -3,17 +3,26 @@
 ## Reclaim your Privacy.
 Xcrypt is a Seamless way to Encrypt or Decrypt local files, on Anroid or Windows.
 
-### Usage Scenarios
+## Why Xcrypt?
 
-Xcrypt can protect your locally stored confidential files from unauthorised access of other installed softwares.
-Xcrypt protects your personal files from other people who can potentially transfer/copy/read you personal files.
-Xcrypt also allows you to encrypt files before sending someone, so the files remain confidential between the sender and reciever, out of reach to any middle-man or third parties.
+- Xcrypt operates fully offline, no data ever leaves your phone or computer. No analytics data is collected. The primary goal is to protect your privacy, not to invade it.
 
-### Features
+- Simply convert files to the encrypted or decrypted form of them for single file or bulk, both easy to work with.
 
-Encrypt/Decrypt single files or in bulk amounts, both options are too easy to work with. 
-Xcrypt remembers the files you worked on last time, so you dont have to find them manually next time.. 
-Also, Xcrypt can remember the 16-digit encryption code for you, it will just verify your device credentials everytime you use the autosaved code.
+- Xcrypt doesn't store the file in some kind of "private" folder, rather keeps it at its original location. So you never lose the encrypted files even if you uninstall Xcrypt.
+
+- Xcrypt is cross-compatible, it's entirely possible to encrypt a file from one device, share to another device then decrypt there using the same key. Even from Android to Windows and vice versa.
+
+- Xcrypt autosaves the file paths you encrypt, and also the 16 digit encryption key to relieve you of the hassle of remembering yourself.
+
+- Want to decrypt a file to use once, or encrypt to share just for once? Xcrypt Single File Operation Mode makes it easier with features like auto deletion.
+
+## Use cases
+- Hide files from other people, as simple as that.
+
+- Stop suspicious apps from accessing all your files and reading the contents of your confidential documents.
+
+- Encrypt files before sharing to someone, to prevent access to third parties or any middle-mans .
 
 ## Installation
 
