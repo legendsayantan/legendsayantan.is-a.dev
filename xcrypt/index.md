@@ -15,14 +15,14 @@ Xcrypt is a Seamless way to Encrypt or Decrypt local files, on Android or Window
 
 - Xcrypt autosaves the file paths you encrypt, and also the 16 digit encryption key to relieve you of the hassle of remembering yourself.
 
-- Want to decrypt a file to use once, or encrypt to share just for once? Xcrypt Single File Operation Mode makes it easier with features like auto deletion.
+- Want to decrypt a file to use once, or encrypt and share at once? Xcrypt Single File Operation Mode makes it easier with features like auto deletion.
 
 ## Use cases
 - Hide files from other people, as simple as that.
 
 - Stop suspicious apps from accessing all your files and reading the contents of your confidential documents.
 
-- Encrypt files before sharing to someone, to prevent access to third parties or any middle-mans .
+- Encrypt files before sharing to someone, to prevent access to third parties or any middle-men .
 
 ## Installation
 
