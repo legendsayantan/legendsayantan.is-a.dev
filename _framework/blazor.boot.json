@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Blazor.SubtleCrypto.dll": "sha256-WQ4m4jQhysDeKdmq67CGksSulqmvdJq4KN4stpdLfSI=",
-      "BlazorWeb.dll": "sha256-7TivFFZfmO7cFCA\/0L0S6Rp+b1OuJC92QYsRVkv4\/VQ=",
+      "BlazorWeb.dll": "sha256-r6tpVqoj2rtqusZZ4hGY2Y2\/WoYp8HU8fqnBOD4QH1M=",
       "FileDownloader.dll": "sha256-D3rM3Y5RIJ6ZunMCxww6uYYpjH+i1aU0cUYo4C6HN98=",
       "MatBlazor.dll": "sha256-w+DEscEPLXa2QwjGoRMEy1XDOSGPM8O3p9QFXlTiea4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-hHOq5youeppB2T6L\/dvicI4h8Djg0yg3aNR6Cr4Cg7I=",
