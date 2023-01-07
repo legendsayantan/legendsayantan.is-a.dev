@@ -1,5 +1,4 @@
-﻿var adbInstance = null, dev = null;
-var connectBtn, nameView, container;
+﻿
 function animatePage() {
     var observer = new IntersectionObserver((entries) => {
         entries.forEach((entry) => {
@@ -15,7 +14,7 @@ function animatePage() {
     var sections2 = document.querySelectorAll('.hidden2');
     sections2.forEach((section) => observer.observe(section));
     var sections2 = document.querySelectorAll('.hiddenY');
-    sections2.forEach((section) => observer.observe(section));2
+    sections2.forEach((section) => observer.observe(section)); 2
     var fades = document.querySelectorAll('.fade');
     fades.forEach((fade) => observer.observe(fade));
     var smalls = document.querySelectorAll('.small');
