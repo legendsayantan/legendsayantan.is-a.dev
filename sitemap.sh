@@ -1,5 +1,5 @@
 filename='sitemap.xml'
-page= $(cut -d '/' -f 2 <<< "$1")
+page=$(echo "$1" | cut -d '/' -f 2)
 curDate=$(date +'%Y-%m-%d')
 if [ -f "$filename" ] ; then
     rm "$filename"
