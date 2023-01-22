@@ -4,6 +4,7 @@ curDate=$(date +'%Y-%m-%d')
 if [ -f "$filename" ] ; then
     rm "$filename"
 fi
+echo "$page"
 IFS=$'\n' read -r -d '' -a allPaths < <( jq '.[] | .path' -r data/projects.json && printf '\0' )
 echo '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >>$filename
 for str in ${allPaths[@]}; do
