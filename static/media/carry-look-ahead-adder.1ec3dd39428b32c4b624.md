@@ -34,7 +34,7 @@ Let's simplify the logic -
 So in a general form , the logic of one single stage of carry generation would be `C(i+1) = Gi + (Pi . Ci)`, where i = stage id.
 
 ### Creation of multi-stage Carry Look Ahead Generator
-As we just saw, a One-stage Carry Look Ahead Generator circuit can perform carry generation for one bit of addition. But often times we need to add 4bit,8 bit carry genetation. This is why we will use multi-stage circuit.
+As we just saw, a One-stage Carry Look Ahead Generator circuit can perform carry generation for one bit of addition. But often times we need 4bit, 8 bit carry generation. This is why we will use multi-stage circuit.
 
 As we know, the carry generation logic for a single stage is `C(i+1) = Gi + (Pi . Ci)`.
 So, for a 2 bit addition, we will need 2 stages of carry generation. So, the carry generation logic for 2 bit addition would be -
