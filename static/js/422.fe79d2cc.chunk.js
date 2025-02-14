@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreactweb=self.webpackChunkreactweb||[]).push([[422],{6422:function(e,t,a){e.exports=a.p+"static/media/how-to-create-pattern.b61ec581420a135f1280.md"}}]);
